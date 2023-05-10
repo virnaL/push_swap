@@ -6,13 +6,12 @@
 /*   By: vluong <vluong@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/26 23:08:56 by vluong            #+#    #+#             */
-/*   Updated: 2023/05/08 18:41:57 by vluong           ###   ########.fr       */
+/*   Updated: 2023/05/10 23:55:55 by vluong           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
+#include "./libft/libft.h"
+#include "./includes/push_swap.h"
 
 int is_arg_number(char *str)
 {
